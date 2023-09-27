@@ -1,7 +1,3 @@
-Certainly, here's a sample README file about weather forecasting using deep learning techniques like LSTM and Conv1D. You can use this as a template and customize it as needed for your project:
-
----
-
 # Weather Forecasting with Deep Learning
 
 This project demonstrates the application of deep learning techniques, specifically Long Short-Term Memory (LSTM) and Conv1D (1D Convolutional Neural Networks), for weather forecasting. By leveraging these neural network architectures, we aim to predict weather-related variables such as temperature and pressure.
