@@ -38,7 +38,7 @@ Conv1D applies convolutional filters to 1D sequences, making it useful for extra
 
 To use the weather forecasting models:
 
-1. Clone this repository: `git clone https://github.com/yourusername/weather-forecast-deep-learning.git`
+1. Clone this repository: `git clone https://github.com/msarathrahul/weatherforecast_dl.git`
 2. Install the required dependencies (see the [Dependencies](#dependencies) section).
 3. Preprocess your weather data to match the input format expected by the models.
 4. Train the LSTM and Conv1D models using your preprocessed data.
