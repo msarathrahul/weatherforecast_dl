@@ -11,7 +11,6 @@ This project demonstrates the application of deep learning techniques, specifica
 - [Results](#results)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -70,11 +69,3 @@ pip install tensorflow pandas matplotlib jupyter
 ## Contributing
 
 Contributions to this project are welcome! If you have ideas for improving the models, enhancing the data preprocessing pipeline, or any other suggestions, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README with additional sections or information specific to your project. It provides a starting point for documenting your weather forecasting project using deep learning techniques.
